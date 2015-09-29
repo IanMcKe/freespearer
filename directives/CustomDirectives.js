@@ -34,16 +34,3 @@ freespearer.directive('responsiveNav', function() {
     }
   }
 });
-
-//How does????
-// freespearer.directive('js-navigation-menu', function() {
-//   return function(scope, element) {
-//     element.find("js-navigation-menu").removeClass("show");
-//   }
-// });
-
-
-// console.log('check');
-// console.log(element);
-// console.log(scope);
-// element.removeClass("show");
