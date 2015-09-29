@@ -34,3 +34,15 @@ freespearer.directive('responsiveNav', function() {
     }
   }
 });
+
+freespearer.directive('hoverAni', function() {
+  return {
+    restrict:"A",
+    scope: true,
+    link: function(scope, element, attrs) {
+      element.bind('mouseover', function() {
+        element.toggleClass("animated tada");
+      });
+    }
+  }
+});
