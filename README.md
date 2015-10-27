@@ -1,7 +1,6 @@
 # A mockup of the freelancer.com website
 ##### A website that allows users to find projects to work on, and post projects they need help with. (9/25/15)
 
-##### Live version [here](http://ianmcke.github.io/freespearer/)
 
 #### By Ian McKenney
 
